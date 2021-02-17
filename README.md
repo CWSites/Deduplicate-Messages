@@ -2,8 +2,6 @@
 
 Simple message deduping with built in sorting & pagination.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 Run in development mode using `yarn start` which will be made available at [http://localhost:3000](http://localhost:3000)
 
 ## Functionality
